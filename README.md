@@ -1,7 +1,7 @@
 # 💫 About Me
 
 ## 👋 Hi there, I'm Excius!
-I am a passionate and driven software developer with a strong focus on back-end development, Cloud Engineering, network programming, and low-level systems programming. With a deep interest in building efficient and scalable systems, I enjoy solving complex problems and continuously learning new techniques.
+I am a passionate and impact-driven software developer with a strong focus on back-end development, Cloud Engineering, network programming, and low-level systems programming. With a deep interest in building efficient and scalable systems, I enjoy solving complex problems and continuously learning new techniques.
 
 In addition to my systems programming interests, I have a heavy interest in back-end engineering, DevOps practices, and cloud technologies. I’m enthusiastic about designing robust APIs, automating infrastructure, and deploying scalable applications in cloud-native environments.
 
